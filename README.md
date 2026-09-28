@@ -14,3 +14,5 @@ DNS: 172.31.80.254
 FQDN: hyps0201.lab.ephec-ti.be
 
 root pswd: Bonneannée2024!
+
+to configure: https://172.31.80.2:8006/
