@@ -2,7 +2,7 @@ connection au proxmox
 https://hyp-01.lab.ephec-ti.be
 
 login: stu02
-root pswd: Bonneannée2024
+root pswd: ***
 
 jump ip: 193.190.65.82:3389
 
@@ -15,6 +15,6 @@ gateway: 172.31.80.254
 DNS: 172.31.80.254
 FQDN: hyps0201.lab.ephec-ti.be
 
-root pswd: Bonneannée2024!
+root pswd: ***
 
 to configure: https://172.31.80.2:8006/
