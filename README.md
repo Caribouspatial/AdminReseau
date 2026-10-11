@@ -31,4 +31,9 @@ proxmox dans jump en linux PAM
 login: root
 pswd: Bonneannée2024!
 
-to configure: https://172.31.80.2:8006/
+VMTP01
+admin
+justtriss
+
+caribou
+caribou
