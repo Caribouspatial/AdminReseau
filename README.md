@@ -12,12 +12,17 @@ ID pfsense:
 login: admin
 pswd: justtriss
 
-proxmox 1 
+hyp proxmox 1 
 ip hyp 1: 172.31.80.2 /24
 gateway: 172.31.80.254
 DNS: 172.31.80.254
 FQDN: hyps0201.lab.ephec-ti.be
 
+hyp proxmox 2
+ip hyp 1: 172.31.80.102 /24
+gateway: 172.31.80.254
+DNS: 172.31.80.254
+FQDN: hyps0201.lab.ephec-ti.be
 
 StuMgm: BC:24:11:92:2D:71
 StuVmNet: BC:24:11:79:20:8A
